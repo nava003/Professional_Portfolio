@@ -5,15 +5,23 @@
 }
 
 body {
-
+    background-image: url(../image/Black-Hat-Red-Tie-Black-Background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
 }
 
 header {
-
+    display: flex;
+    padding: 30px;
+    width: 70%;
 }
 
 h1 {
-
+    color:#57A187;
+    text-shadow: 1px 1px 2px black, 0 0px 15px #77A192;
+    /* background-color: #543C36; */
 }
 
 nav {
@@ -25,7 +33,7 @@ a {
 }
 
 main {
-
+    margin:60px;
 }
 
 section {
@@ -33,7 +41,8 @@ section {
 }
 
 h2 {
-
+    color: #A15847;
+    text-shadow: 1px 1px 2px black;
 }
 
 p {
@@ -47,5 +56,5 @@ img {
 }
 
 footer {
-    
+    text-align: center;
 }
