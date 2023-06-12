@@ -14,26 +14,28 @@ body {
 
 header {
     display: flex;
+    justify-content: space-between;
+    color:wheat;
+    background-color: rgba(210, 180, 140, 0.70);
     padding: 30px;
     width: 70%;
 }
 
 h1 {
-    color:#57A187;
-    text-shadow: 1px 1px 2px black, 0 0px 15px #77A192;
-    /* background-color: #543C36; */
+    text-shadow: 1px 1px 2px black, 0 0px 15px tan;
 }
 
 nav {
-
+    
 }
 
 a {
-
+    
 }
 
 main {
-    margin:60px;
+    width: 67%;
+    margin:30px;
 }
 
 section {
