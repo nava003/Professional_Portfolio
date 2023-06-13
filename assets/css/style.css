@@ -53,12 +53,12 @@ p {
 .firstProject {
     margin-top: 10px;
     width: 350px;
-    border: 10px solid #A15847;
+    border: 10px solid #57A187;
     border-radius: 5px;
 }
 
-.firstProject:hover {
-    
+section img:hover {
+    border-color: #A15847;
 }
 
 .placeholderProject {
