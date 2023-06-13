@@ -29,7 +29,7 @@ h1 {
     text-shadow: 1px 1px 2px black, 0 0px 15px tan;
 }
 
-a {
+header a {
     padding-left: 15px;
     font-size: 28px;
     color: wheat;
@@ -52,9 +52,18 @@ p {
 
 .firstProject {
     margin-top: 10px;
-    margin-left: 10px;
     width: 350px;
-    border: 3px solid #A15847;
+    border: 10px solid #A15847;
+    border-radius: 5px;
+}
+
+.firstProject:hover {
+    
+}
+
+.placeholderProject {
+    width: 250px;
+    border: 10px solid #57A187;
 }
 
 footer {
