@@ -21,4 +21,4 @@ WHEN I resize the page or view the site on various screens and devices\
 THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Student Result
-Link to Deployed Version: 
+Link to Deployed Version: https://nava003.github.io/Module_2_Challenge/
